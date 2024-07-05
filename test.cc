@@ -9,3 +9,5 @@ int ExampleClass::oki(int a)
 
 }
 }; // namespace ExampleNamespace
+
+
